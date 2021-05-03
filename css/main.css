@@ -1,0 +1,23 @@
+
+:root {
+  
+  /*--primary-color: 153,50; */
+  --h: 35;
+  --s: 31%;
+  --l: 21%;
+ --secondary-color: hsl(var(--h),var(--s),var(--l));
+   /**/
+ /*--secondary-color: hsl(var(--h),var(--s),calc(var(--l)*0.1 )); */
+  --primary-color: #C87620;
+  
+  
+  
+  --white: #ffffff;
+
+  --third-color: #F6F5F0;
+  --fourth-color: #93C193;
+
+}
+body{
+	font-family: Roboto;
+}
